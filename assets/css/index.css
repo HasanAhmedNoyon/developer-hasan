@@ -16,7 +16,7 @@ h1 span{
 /*First Part*/
 .first-part{
     height: 100vh;
-    background-image: url("./assets/img/top-banner.png");
+    background-image: url("/assets/img/top-banner.png");
     background-repeat: no-repeat;
 }
 .first-part .part1{
@@ -50,7 +50,7 @@ h1 span{
 
 /*Second Part*/
 .second-part{
-    background-image: url("./assets/img/dream-bg.png");
+    background-image: url("/assets/img/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     height: 650px;
@@ -84,7 +84,7 @@ h1 span{
 }
 
 .experiences{
-    background-image: url("./assets/img/exp-bg.png");
+    background-image: url("/assets/img/exp-bg.png");
     background-repeat: no-repeat;
     background-position-y: 180px;
     height: 500px;
