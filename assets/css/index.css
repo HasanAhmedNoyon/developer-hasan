@@ -1,0 +1,109 @@
+body{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+.first-part{
+    margin-top: 100px;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: #FFA500;
+}
+h1 p{
+    font-weight: 100;
+}
+.part1 button{
+    font-size: 20px;
+    padding: 10px 40px 10px 40px;
+    background-color: linear-gradient();
+}
+.part1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.second-part{
+    width: 100%;
+    float: left;
+}
+.part2 {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.part2 img{
+    width: 100%;
+    font-size: 20px;
+    padding: 10px 40px 10px 40px;
+    cursor: pointer;
+    
+}
+.second-part{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.part3{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;;
+}
+.part3 img{
+    width: 100%;
+}
+.part4 {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.part3 h1{
+    margin-bottom: 10px;
+}
+.part4 button{
+    font-size: 20px;
+    padding: 10px 40px 10px 40px;
+    cursor: pointer;
+    
+}
+.experiences{
+    width: 90%;
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    float: left;
+    margin-bottom: 100px;
+}
+
+.experiences  h1{
+    font-size: 40px;
+}
+.experiences h3{
+    font-size: 20px;
+    color: #FFA500;
+}
+.experiences p{
+    text-align: justify;
+    font-weight: 200;
+}
+.experiences .left{
+    width: 45%;
+    float: left;
+    border-left: 10px solid #F9775F;
+    padding: 10px 20px;
+    height: 300px;
+    box-shadow: 2px 2px 10px black;
+}
+
+.experiences .right{
+    width: 45%;
+    float: right;
+    border-left: 10px solid #00A5FF;
+    padding: 10px 20px;
+    height: 300px;
+    box-shadow: 2px 2px 10px black;
+}
