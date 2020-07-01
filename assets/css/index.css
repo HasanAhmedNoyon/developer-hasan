@@ -86,22 +86,24 @@ h1 span{
 .experiences{
     background-image: url("/assets/img/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left;
+    background-position-y: 180px;
     height: 500px;
     width: 100%;
     float: left;
     margin-bottom: 50px;
+   
 }
 .experiences-ceontent{
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
     float: left;
+    background-color: white;;
 }
 
 .experiences-ceontent h1{
     font-size: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .experiences-ceontent h3{
     font-size: 20px;
@@ -112,24 +114,20 @@ h1 span{
     font-weight: 200;
 }
 .experiences-ceontent .left{
-    background-color: white;;
     margin-right: 5%;
     width: 40%;
     float: left;
+    border-left: 10px solid #F9775F;
     padding: 10px 20px;
     height: 300px;
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
-    border-left: 7px solid #F9765E;
+    box-shadow: 10px 10px 40px black;
 }
 
 .experiences-ceontent .right{
-    background-color: white;
     width: 40%;
     float: left;
+    border-left: 10px solid #00A5FF;
     padding: 10px 20px;
     height: 300px;
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
-    border-left: 7px solid #0080FF;
+    box-shadow: 10px 10px 40px black;
 }
